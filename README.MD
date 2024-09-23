@@ -3,7 +3,6 @@ Memadukan AdonisJS 6 dan Corona Dashboard 2
 
 Saya gabungkan Framework AdonisJS V6 dengan Corona Dashboard Versi Free
 
-https://www.bootstrapdash.com/demo/corona-free/jquery/template/index.html
 
 <table>
   <tr>
